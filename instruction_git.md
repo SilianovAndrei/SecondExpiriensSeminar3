@@ -125,4 +125,4 @@
 
         git chechout branch_name
 
-    
+* ### **Удаленные репозитории** 
